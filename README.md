@@ -1,4 +1,4 @@
-# GenAINewsFinder
+# Gen_AI NewsFinder
 
 <img width="483" height="280" alt="image" src="https://github.com/user-attachments/assets/954b1e2a-fded-453c-91db-df115e5f5f86" />
 
